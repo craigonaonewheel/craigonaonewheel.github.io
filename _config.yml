@@ -4,6 +4,13 @@ url: "https://craigonaonewheel.github.io"
 title: Craig on a Onewheel # site's title
 description: "Experiences of a Onewheel beginner" # used by search engines
 
+# more SEO stuff
+twitter:
+  username: craigona1wheel
+  card: summary
+social:
+  links:
+    - https://twitter.com/craigona1wheel
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
