@@ -14,6 +14,9 @@ layout: default
   {% if page.bootstrap %}
   <div class="bootstrap-iso">
   {% endif %}
+  {% if page.pre_excerpt %}
+    {{ page.pre_excerpt | markdownify }}
+  {% endif %}
     {{ content }}
   {% if page.bootstrap %}
   </div>
