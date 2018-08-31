@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 Hi everyone!  My name is Craig, and a couple days ago I started riding a Onewheel (Plus).  For those unfamiliar, it’s kind of a cross between an electric skateboard and a self-balancing unicycle --- in reality it is totally as fun, but not at all as difficult, as that sounds.
 <!--more-->
-(Check out their [website](https://onewheel.com) for more.)  This blog will be about my experiences learning to Onewheel, and hopefully it will also provide some helpful tips and tricks for other beginning Onewheelers like myself.
+(Check out their [website](https://onewheel.com), or [this video](https://www.youtube.com/watch?v=0BkY-wy2ZvM), for more.)  This blog will be about my experiences learning to Onewheel, and hopefully it will also provide some helpful tips and tricks for other beginning Onewheelers like myself.
 
 A little more about my background.  My first skateboard was a Yuneec E-GO2, an electric longboard in the style of a Boosted Board, just more affordable and less powerful.  Before my E-GO2, I had no prior experience with any board sports --- skateboarding, longboarding, snowboarding, surfing.  (In fact, I still haven’t really learned how to properly ride a “regular” non-electric longboard, with the pushing and all that.  But I digress.)  I rode the E-GO2 quite a lot for about nine months, commuting with it daily, before I upgraded to the Onewheel Plus.  So, I come to the Onewheel with some amount of experience longboarding, but not near enough that I consider myself a skilled skateboarder --- in the scheme of things, I’m still a beginner learning to be comfortable on my board.
 
