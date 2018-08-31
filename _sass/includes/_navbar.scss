@@ -38,19 +38,15 @@
         line-height: 1.5;
     }
 
-    nav {
+    ul.sidelinks {
         list-style: none;
         margin: 0;
+        margin-top: 1em;
         padding: 0;
-        ul {
-            margin: 0;
-            padding: 0;
-            list-style: none;
-            line-height: 1.5;
-            float: right;
-            text-align: right;
-            display: block;
-        }
+        line-height: 1.5;
+        float: right;
+        text-align: right;
+        display: block;
         li {
             display: inline;
             float: left;
@@ -58,7 +54,7 @@
         }
         a {
             &:hover {
-                color: $link-color;
+                color: $background-color;
             }
             &#pull {
                 i {
