@@ -15,9 +15,12 @@
 	</div>
     
     <!-- Menu -->
+    {% if include.omitnav %}
+    {% else %}
     <ul class="sidelinks">
     <!--<li class="separator"> | </li>-->
     <li> <a href="{{ site.baseurl }}/">Archive</a> </li>
     </ul>
+    {% endif %}
 
 </header>
