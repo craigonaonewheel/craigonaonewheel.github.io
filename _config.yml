@@ -23,7 +23,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
     <p>Archive</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/onewheel4_crop.jpeg
   footer_text: >
     Created by Craig Disselkoen (Twitter: <a href="https://twitter.com/craigdissel">@craigdissel</a>)<br/>
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
