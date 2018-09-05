@@ -66,6 +66,15 @@ theme_settings:
     wordpress:
     email: true
 
+  # default thumbnail for blog posts when shared
+  logo: "/assets/img/onewheel4_morecropped.jpeg"
+  defaults:
+    -
+      scope:
+        path: ""
+      values:
+        image: "/assets/img/onewheel4_morecropped.jpeg"
+
   # Scripts / Features 
   google_analytics: "UA-124814001-1" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
