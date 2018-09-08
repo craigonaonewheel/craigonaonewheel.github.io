@@ -1,0 +1,22 @@
+---
+layout: post
+title: "&#35;4&#58; Switching It Up"
+#tags: [A Tag, Test, Lorem, Ipsum]
+excerpt_separator: <!--more-->
+pre_excerpt: "_For previous posts in the series, [see the archive.](/)_"
+---
+
+Unlike some electric skateboards, the Onewheel is perfectly fine with riding in either direction.  The end with the split footpad sensor is traditionally considered the front, and the end which naturally rests on the ground the rear, but the Onewheel doesn’t have to be ridden this way.
+<!--more-->
+Like most people, I’m used to riding with a particular end forward, and more importantly with a particular foot forward.  But being able to ride both directions --- in addition to just being cool --- seems like it would be useful because it would increase my ability to maneuver the Onewheel in tight spaces without physically turning around or getting off.  At least, until I learn [this trick](https://www.youtube.com/watch?v=v6tghKv3tdA).
+
+So I decided to try it out today: riding switch.  Or rather, technically riding fakie.  Some explanation of skateboard terminology is in order.  (And I just learned this from the Internet, so hopefully I’m getting it right.)
+
+When you ride a skateboard of any kind, including a Onewheel, you have a preferred front foot (just like you have a preferred hand to throw a ball with).  For most people, including me, your preferred front foot is your left foot, and you’re said to ride “regular”.  People who prefer right foot forwards instead are said to ride “goofy”.  Either way, riding in your preferred stance --- either regular or goofy --- is called riding “normal”.  The opposite of riding normal is riding “switch”; this is if you put your other foot forward.  For me, riding goofy is riding switch, but for people who naturally ride goofy, riding regular is riding switch.  All of these terms so far assume you’re still riding the board forwards and just switching your foot positions.  Switching from riding normal to switch requires getting off the board and getting back on with your feet on the opposite footpads so you can still ride forwards.  In contrast, riding “fakie” is just staying in your normal stance, but riding the board backwards.  You’ll still end up leading with your wrong foot, but you don’t get off the board; instead, you’re riding with the other end of the board in front.  Fakie seems to me to be more practical than switch, at least on a Onewheel, as it allows you to reverse direction in tight spaces without getting off.  Regardless, with either switch or fakie stance, you’re leading with your wrong foot.
+
+Anyways, what I discovered is that riding switch (fakie) is actually really hard.  I mean, I expected it to be uncomfortable at first --- but I didn’t expect how hard even some of the basics were, or how unnatural it felt.  For instance, even riding in a straight line (without curving) took a couple tries.  And even though I’m developing some pretty good balance on the Onewheel in general, just mounting the board and then trying to ride backwards had me feeling like I was going to fall.
+
+Particularly hard was riding forwards, stopping, and then going backwards.  For some reason, I found myself tipping onto my toeside as I tried to switch direction, and having to jump off.  But as with everything, practice is the key.  I spent a while doing the simple drill of going back and forth in a straight line --- forwards, then stop and reverse, then stop and forwards, etc --- and paying attention to how I was balancing (or not) as I did so.
+
+After a couple of tries, I realized what was happening and why switching direction was hard.  I’m pretty sure I distribute my weight slightly differently depending on direction - I don’t just turn my head, but I actually swivel my whole torso somewhat to face a little bit more “forward”, whichever direction I happen to be going.  The processing of just looking the other way and swiveling slightly to face that direction was causing me to lose my balance; instinctively I leaned onto my toeside to perform the transition.  Once I was conscious of it, I was able to swivel between “facing” front and “facing” rear while thinking about keeping my weight centered heel-to-toe (which felt like I was leaning heelside while swiveling).  Pretty soon I was getting the hang of my little drill and it didn’t take near as much concentration.  I’ve definitely got a long ways to go before I’m as comfortable fakie as I am regular, but I can now reverse direction much more confidently.
+
